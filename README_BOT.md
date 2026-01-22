@@ -101,4 +101,4 @@ Amity University, Noida
 
 ## ⭐ Support
 
-If you find this project useful, please star ⭐ the repository!
+If you find this project useful, please star ⭐ the repository! Thanku 
