@@ -68,37 +68,4 @@ This project utilizes the following datasets for training and improving the chat
    - Use: Aids in training the chatbot to generate more natural and context-appropriate responses.
 
 
-## 📊 Datasets Used
-
-Sentiment Analysis for Mental Health (Kaggle)
-
-Mental Health Conversational Data (Kaggle)
-
-These datasets help train the sentiment analysis and conversational logic.
-
-## 🎯 Learning Outcomes
-
-NLP preprocessing and sentiment analysis
-
-Text classification using ML models
-
-Building conversational chatbots
-
-Handling sensitive user input responsibly
-
-Ethical AI considerations in healthcare-related tools
-
-## ⚠️ Disclaimer
-
-This chatbot is intended for educational and research purposes only.
-It is not a replacement for professional mental health support.
-If you are experiencing serious mental health issues, please seek help from a qualified professional.
-
-## 👨‍💻 Author
-Atul Anand
-BCA (Hons)
-Amity University, Noida
-
-## ⭐ Support
-
-If you find this project useful, please star ⭐ the repository! Thanku 
+ 
