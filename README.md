@@ -60,14 +60,6 @@ The chatbot will analyze sentiment and respond
 
 Type quit or exit to end the conversation
 
-📂 Project Structure
-mental-health-support-chatbot/
-│
-├── Mental_health_bot.py
-├── requirements.txt
-├── README.md
-└── datasets/
-
 ## 📊 Datasets Used
 
 Sentiment Analysis for Mental Health (Kaggle)
